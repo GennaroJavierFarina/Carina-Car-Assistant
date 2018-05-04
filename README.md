@@ -1,7 +1,7 @@
 # Carina-Car-Assistant
 Carina is a car assistant project to make driving simpler. 
 
-Connect Carina to your car and talk to her! She turns headlights on, moves driving mirrors and so on obeying your voice!
+Connect Carina to your car and talk to her! It turns headlights on, moves driving mirrors and so on obeying your voice!
 
 It is born in the University of Naples Parthenope by three master students in Computer Science.
 
